@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(1, 40, 65, 0.801);
+}
+.movie-list{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.moive{
+    border: 1px solid rgb(241, 239, 232);
+    margin: 20px;
+    color: rgba(8, 8, 8, 0.959);
+    background-color: rgba(234, 234, 241, 0.521);
+    font-family:   Tahoma, Verdana, sans-serif;
+
+}
+.header{
+    color: azure;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
